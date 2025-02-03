@@ -1,15 +1,9 @@
 # imdb-movie-assistant
-This is your first project assignment.
-You will clone this project and solve the tasks as described in the [assignment documentation on canvas](https://canvas.kth.se/courses/50052/files/8072699?module_item_id=931314). Once completed, you will push your changes back to github.
-
 
 Content of the files:
 
 ## imdb.py
-This is the "main" file that you will run to see the resulting output to the terminal.
-You have to fill out the content of some functions here.
-
-Some examples to run the file, (see the assignment documentation for examples on expected output).
+This is the "main" file that will run to see the resulting output to the terminal.
 
 ```sh
 python imdb.py
