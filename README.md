@@ -1,1 +1,1 @@
-# kth_projects
+# imdb-movie-assistant
