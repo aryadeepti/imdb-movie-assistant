@@ -1,4 +1,4 @@
-# P1_template
+# imdb-movie-assistant
 This is your first project assignment.
 You will clone this project and solve the tasks as described in the [assignment documentation on canvas](https://canvas.kth.se/courses/50052/files/8072699?module_item_id=931314). Once completed, you will push your changes back to github.
 
